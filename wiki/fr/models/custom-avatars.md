@@ -4,10 +4,10 @@ La dernière version de l'extension Custom Avatar peut être trouvée dans les [
 Une fois installée, vous trouverez un fichier nommé `CustomAvatar.dll` dans votre dossier `Plugins`. Vous devriez aussi voir un dossier nommé `CustomAvatars` dans le dossier d'installation principal — c'est ici que vous placerez les fichiers `*.avatar` que vous souhaitez utiliser. Vous pouvez télécharger plus d'avatars sur [ModelSaber](https://modelsaber.com/Avatars/).
 
 ## Utilisation
-::: danger NOTE DES AUTEURS
+::: warning NOTE DES AUTEURS
 Ce qui suit est *très* obsolète.
 :::
-L'extension utilise le clavier pour changer les paramètres. Cliquez sur la fenêtre du jeu pour l'avoir en focus.
+L'extension utilise le clavier pour changer les paramètres. Cliquez sur la fenêtre du jeu qu'elle soit active.
 |    Touche | Description                                |
 |:---------:|--------------------------------------------|
 |  Page Up  | Choisit l'avatar suivant dans votre liste  |
@@ -25,4 +25,4 @@ Les avatars ne sont pas sélectionnés par défaut. Utilisez Page Up ou Page Dow
 ## Créer des avatars
 [Le guide d'Assistant](https://bs.assistant.moe/Avatars) (en anglais) est un bon document pour apprendre à créer ses propres avatars.
 
-Ce guide inclut une [courte vidéo présentée par Megalon](https://bs.assistant.moe/Avatars#Videos) (en anglais), cependant son but est de proposer un avant-goût en complément de la lecture du guide, elle ne le remplace pas.
+Ce guide inclut une [courte vidéo présentée par Megalon](https://bs.assistant.moe/Avatars#Videos) (en anglais), cependant son but est de proposer un avant-goût en complément de la lecture du guide, elle ne la remplace pas.
